@@ -1,3 +1,5 @@
+#Tc: O(nlogn)  Sc: O(n)
+
 def mergeSort(arr):
     if len(arr)>1:
         mid=len(arr)//2
